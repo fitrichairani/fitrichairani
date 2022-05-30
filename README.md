@@ -1,5 +1,10 @@
-### Hi there 👋
+# Hi Everyone 👋
 
+📍 I'm **Fitri Chairani** 👧🏻I live in **Padang, West Sumatra**.\
+👩🏻‍🎓 I am a student at [Padang State Polytechnic](https://www.pnp.ac.id/).\
+🌱 I am currently following the **Bangkit Academy 2022** program on the Mobile Development learning pathway - [Dicoding](https://www.dicoding.com/).\
+💻 I'm not an expert developer yet, but I want to learn and keep learning new things.\
+👭 If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/fitri-chairani-703b37229/) account.
 <!--
 **fitrichairani/fitrichairani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
